@@ -1,0 +1,7 @@
+D:\oopweek06lab\UamsWithLayers\obj\Debug\UamsWithLayers.csproj.AssemblyReference.cache
+D:\oopweek06lab\UamsWithLayers\obj\Debug\UamsWithLayers.csproj.CoreCompileInputs.cache
+D:\oopweek06lab\UamsWithLayers\bin\Debug\UamsWithLayers.exe.config
+D:\oopweek06lab\UamsWithLayers\bin\Debug\UamsWithLayers.exe
+D:\oopweek06lab\UamsWithLayers\bin\Debug\UamsWithLayers.pdb
+D:\oopweek06lab\UamsWithLayers\obj\Debug\UamsWithLayers.exe
+D:\oopweek06lab\UamsWithLayers\obj\Debug\UamsWithLayers.pdb

@@ -1,0 +1,9 @@
+steak,food,200
+hamburger,food,2
+orange juice,drink,300
+aaa,Food,150
+aaaa,food,150
+rrrr,drink ,558
+rrr,Drink,88
+gggg,Drink ,888
+jjj,drink,150
